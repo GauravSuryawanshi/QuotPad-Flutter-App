@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083215948337",
+    "project_id": "quotpad",
+    "storage_bucket": "quotpad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083215948337:android:45b27d47dd6fe52db84310",
+        "android_client_info": {
+          "package_name": "com.example.quotpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083215948337-7b8t3s9f99d1670aams7t7nifo6errgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETOPEUqGe1EqmJRQAxX48Dg01IL_mozM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083215948337-7b8t3s9f99d1670aams7t7nifo6errgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
