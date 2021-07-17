@@ -1,6 +1,6 @@
 # quotpad
 
-A new Flutter project.
+Write What you think!
 
 ## Getting Started
 
